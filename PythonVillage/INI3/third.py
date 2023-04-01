@@ -1,4 +1,4 @@
-f = open("./../datas/rosalind_ini3.txt")
+f = open("../../datas/rosalind_ini3.txt")
 
 raw = f.readlines()
 
